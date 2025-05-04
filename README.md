@@ -14,9 +14,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Web Application Pentesting </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Web-App-Pentesting](https://github.com/AhmadShaito1122/Web-App-Pentesting)
 - <b>Network Security</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [FortiGate-Firewall-Configuration](https://github.com/AhmadShaito1122/FortiGate-Firewall-Configuration) 
 - <b>Passwordless Authentication</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
