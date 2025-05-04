@@ -5,7 +5,7 @@
 - <b>Java</b>
   - [Java-Clinic-System](https://github.com/AhmadShaito1122/Java-Clinic-System)
 - <b>Full Stack Web App (HTML, CSS, JavaScript, php ,MySQL)</b>
-  - [Web-Delivery-Company](https://github.com/AhmadShaito1122/Web-Delivery-Company) <b><i>(Potentially NSFW)</b></i>
+  - [Web-Delivery-Company](https://github.com/AhmadShaito1122/Web-Delivery-Company) <b>
 - <b>Python</b>
   - [Python-2048-Game](https://github.com/AhmadShaito1122/Python-2048-Game)
   
